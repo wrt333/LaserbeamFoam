@@ -124,6 +124,14 @@ export PATH="~/LIGGGHTS-PUBLIC/build:$PATH"
 
 where the location should be updated to match the location on your system.
 
+## Setting Up Your Own LPBF Case
+
+For a step-by-step guide on configuring `laserbeamFoam` for your own
+Laser Powder Bed Fusion simulation — including how to set material properties,
+laser parameters, scan path, mesh, and initial conditions — see:
+
+📖 **[Custom LPBF Setup Guide](documentation/CustomLPBF_Guide.md)**
+
 ## Tutorial Cases
 
 The tutorial cases can be run with the included `Allrun` scripts, i.e.
